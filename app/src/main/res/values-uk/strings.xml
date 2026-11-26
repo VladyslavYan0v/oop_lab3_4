@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Гра Лабіринт</string>
+    <string name="moves_counter">Кроків: %1$d</string>
+    <string name="time_counter">Час: %1$02d:%2$02d</string>
+    <string name="best_time">Рекорд: %1$02d:%2$02d</string>
+    <string name="best_time_none">Рекорд: --:--</string>
+    <string name="btn_new_game">Новий лабіринт</string>
+    <string name="btn_language">UA / EN</string>
+    <string name="btn_hint">Підказка</string>
+    <string name="diff_easy">Легкий</string>
+    <string name="diff_medium">Середній</string>
+    <string name="diff_hard">Складний</string>
+    <string name="fog_on">Туман: ТАК</string>
+    <string name="fog_off">Туман: НІ</string>
+    <string name="win_title">Вихід знайдено!</string>
+    <string name="win_message_adv">Кроків: %1$d\nЧас: %2$02d:%3$02d</string>
+    <string name="new_record_badge">★ Новий рекорд часу! ★</string>
+</resources>
